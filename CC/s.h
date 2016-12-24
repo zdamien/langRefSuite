@@ -1,3 +1,6 @@
+// Load the environment with useful things, kind of like what comes by
+// default with Perl.
+
 #include <algorithm>
 #include <iostream>
 #include <vector>
@@ -7,6 +10,7 @@
 #include <iterator>
 #include <list>
 #include <map>
+#include <cassert>
 #include <unordered_map>
 #include <stdio.h>
 #include <stdlib.h>
