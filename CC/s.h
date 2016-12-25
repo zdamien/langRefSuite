@@ -1,6 +1,9 @@
 // Load the environment with useful things, kind of like what comes by
 // default with Perl.
 
+#ifndef DAMIEN_S_H
+#define DAMIEN_S_H
+
 #include <algorithm>
 #include <iostream>
 #include <vector>
@@ -76,3 +79,5 @@ auto max2(const auto& b, const auto& e) {
     }
     return m;
 }
+
+#endif
