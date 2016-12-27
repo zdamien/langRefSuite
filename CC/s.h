@@ -13,6 +13,7 @@
 #include <iterator>
 #include <list>
 #include <map>
+#include <functional>
 #include <cassert>
 #include <unordered_map>
 #include <stdio.h>
