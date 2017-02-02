@@ -1,4 +1,4 @@
-"""Python coping weirdness"""
+"""Python scoping weirdness"""
 
 x=1
 
