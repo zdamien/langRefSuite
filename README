@@ -1,21 +1,25 @@
 Language Reference Suite
 
-So, as I apply for jobs, not necessarily in any particular language, the
-question of how well I know a language, or what it means to know a
-language, comes to mind.  Many languages and standard libraries are big
-with various unique features and idioms, after all.  But there's a
-standard useful toolkit one could define: numbers and strings, control
-structures, functions and error handling, lists and maps, objects, I/O.
-It'd be cool to do some project that used all of them for each language,
-but I can't think of one off hand I want to do, and it'd probably take
-longer.  These 'suite' programs are a more minimalist sequence of
-code snippets, not doing anything interesting in themselves, but
-exercising the various features, serving various purposes:
+So, as I apply for jobs [I wrote this in 2016], not necessarily in any
+particular language, the question of how well I know a language, or what
+it means to know a language, comes to mind.  Many languages and standard
+libraries are large and have various unique features and idioms, after
+all.  But there's a standard useful toolkit one could define: numbers
+and strings, control structures, functions and error handling, lists and
+maps, objects, I/O.  It'd be cool to do some project that used all of
+them for each language, but I can't think of one off hand that I want to
+do, and it would probably take longer.  These 'suite' programs are a
+more minimalist sequence of code snippets, not doing anything
+interesting in themselves, but exercising the various features, to serve
+various purposes:
 
 * Evidence to myself and others that I know how to do X in a language.
 * One-stop documentation for myself on how to do X, if I forget.
 * Documentation of things I expected to work, but don't.
-* Checklist for learning a futuer language.
+* Checklist for learning a future language.
+
+Status: I'm not sure any language set is done.  Maybe the C one.  Other
+things came up, like having an actual job...
 
 Language basics:
 comparisons and if tests
