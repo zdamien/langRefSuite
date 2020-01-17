@@ -393,7 +393,7 @@ def fileIO():
 
 def timeAndRandom():
     import time
-    print(time.clock())
+    print(time.time())
     time.sleep(0.1) #seconds
     print(time.time())
 
